@@ -1,4 +1,4 @@
 ---
 title: "Your awesome title"
-date: YYYY-MM-DD
+date: 2019-04-26
 ---
